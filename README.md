@@ -13,8 +13,7 @@ dados:
 https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-
 abertos/microdados/enem
 
-Ele então combina com o time de
-entregar os relatórios 1 semana depois, como um jupyter notebook e um pdf/html
+Ele então combina com o time de entregar os relatórios 1 semana depois, como um jupyter notebook e um pdf/html
 no formato de relatório escrito, com título, introdução e contextualização histórica
 e político-social se necessário (com referências), introdução ao tema
 abordado, desenvolvimento de seus pontos com a ajuda da exploração dos dados,
@@ -35,11 +34,6 @@ O projeto deve estar no github.com, a forma de organizar o conteúdo é por
 sua conta, caso nunca tenha usado, este já é seu primeiro desafio.
 Ao final do projeto, você deve preencher o formulário com o seu nome
 completo, e-mail utilizado no treinamento e o link do github do seu projeto.
-Link do formulário para envio:
-https://forms.office.com/r/9qc1maw1sV
-O projeto deve ser enviado até dia 22/08/2022.
-
-This information whose content is intended only for the exercise of internal activities and the objectives of Semantix.
 
 Uma dica final: o poder dos dados somente aparece quando sabemos
 transportá-los para a realidade, dentro de um contexto estabelecido e muito bem
@@ -48,4 +42,4 @@ homofóbicas, xenófobas etc., ou seja, quando fora de contexto, a ciência de d
 não é uma ciência de fato, e sim apenas um apanhado de números sem sentido ou
 simplesmente distorcidos! Em resumo, um bom cientista de dados sabe que antes
 de olhar para os dados ele precisa de suporte e conhecimento mínimo de área.
-Bom projeto e estudos
+
