@@ -1,9 +1,9 @@
-Semantix Academy
-Projeto final do Curso de Data Science da Semantix Academy utilizando os microdados do ENEM 2021.
+
+<b>Projeto final do Curso de Data Science da Semantix Academy utilizando os microdados do ENEM 2021.</b>
 
 Referência para o projeto: 
 
-Projeto Final Big Data Science
+Projeto Final Big
 
 Como tarefa do time, vocês recebem a incumbência de fazer uma análise dos
 dados coletas no ENEM 2021. Como colher de chá, já que encontrar e vasculhar a
@@ -37,5 +37,5 @@ completo, e-mail utilizado no treinamento e o link do github do seu projeto.
 __________________________________________________________________________
 
 <br><b>Agradecimentos a equipe @Semantix por proporcional essa oportunidade de adquirir conhecimento.<br>
-Agradecimento especial ao Professor Rodrigo Rebouças, por sua dedicação e competência.<br>
+Agradecimento especial ao <u>Professor Rodrigo Rebouças</u>, por sua dedicação e competência.<br>
 
