@@ -3,10 +3,10 @@
 
 Referência para o projeto: 
 
-Como tarefa do time, vocês recebem a incumbência de fazer uma análise dos
+"Como tarefa do time, vocês recebem a incumbência de fazer uma análise dos
 dados coletas no ENEM 2021. Como colher de chá, já que encontrar e vasculhar a
 fonte dos dados é seu trabalho, seu supervisor te envia o link de onde encontrar os
-dados:
+dados":
 
 https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-
 abertos/microdados/enem
