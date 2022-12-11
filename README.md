@@ -1,5 +1,5 @@
 Semantix Academy
-Esse é o projeto final do Curso de Data Science da Semantix Academy utilizando os microdados do ENEM 2021.
+Projeto final do Curso de Data Science da Semantix Academy utilizando os microdados do ENEM 2021.
 
 Referência para o projeto: 
 
@@ -34,12 +34,8 @@ O projeto deve estar no github.com, a forma de organizar o conteúdo é por
 sua conta, caso nunca tenha usado, este já é seu primeiro desafio.
 Ao final do projeto, você deve preencher o formulário com o seu nome
 completo, e-mail utilizado no treinamento e o link do github do seu projeto.
+__________________________________________________________________________
 
-Uma dica final: o poder dos dados somente aparece quando sabemos
-transportá-los para a realidade, dentro de um contexto estabelecido e muito bem
-estudado. Fora de contexto ele pode levar a conclusões enganosas, parciais, racistas,
-homofóbicas, xenófobas etc., ou seja, quando fora de contexto, a ciência de dados
-não é uma ciência de fato, e sim apenas um apanhado de números sem sentido ou
-simplesmente distorcidos! Em resumo, um bom cientista de dados sabe que antes
-de olhar para os dados ele precisa de suporte e conhecimento mínimo de área.
+<br><b>Agradecimentos a equipe @Semantix por proporcional essa oportunidade de adquirir conhecimento.<br>
+Agradecimento especial ao Professor Rodrigo Rebouças, por sua dedicação e competência.<br>
 
