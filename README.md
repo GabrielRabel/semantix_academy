@@ -1,9 +1,7 @@
 
-<b>Projeto final do Curso de Data Science da Semantix Academy utilizando os microdados do ENEM 2021.</b>
-
+<b>Projeto final do Curso de <u>Big Data Science</u> da Semantix Academy utilizando os microdados do ENEM 2021.</b>
+Aluno: Gabriel Rabel
 Referência para o projeto: 
-
-Projeto Final Big
 
 Como tarefa do time, vocês recebem a incumbência de fazer uma análise dos
 dados coletas no ENEM 2021. Como colher de chá, já que encontrar e vasculhar a
