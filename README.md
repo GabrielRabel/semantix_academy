@@ -8,8 +8,7 @@ dados coletas no ENEM 2021. Como colher de chá, já que encontrar e vasculhar a
 fonte dos dados é seu trabalho, seu supervisor te envia o link de onde encontrar os
 dados":
 
-https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-
-abertos/microdados/enem
+https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
 
 Ele então combina com o time de entregar os relatórios 1 semana depois, como um jupyter notebook e um pdf/html
 no formato de relatório escrito, com título, introdução e contextualização histórica
